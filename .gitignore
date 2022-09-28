@@ -2,7 +2,6 @@
 *.gbc
 *.map
 *.sym
-*.exe
 *.bsp
 *.h.gch
 *.pyc
