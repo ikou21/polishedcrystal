@@ -58,6 +58,7 @@ CherrygroveMartAfterDex:
 	db ANTIDOTE
 	db PARALYZEHEAL
 	db AWAKENING
+	db RARE CANDY
 	db -1
 
 VioletMart:
@@ -73,6 +74,7 @@ VioletMart:
 	db X_DEFEND
 	db X_SPEED
 	db FLOWER_MAIL
+	db RARE CANDY
 	db -1
 
 AzaleaMart:
@@ -87,6 +89,7 @@ AzaleaMart:
 	db ANTIDOTE
 	db PARALYZEHEAL
 	db FLOWER_MAIL
+	db RARE CANDY
 	db -1
 
 Goldenrod2FMart1:
@@ -100,6 +103,7 @@ Goldenrod2FMart1:
 	db ICE_HEAL
 	db FULL_HEAL
 	db REVIVE
+	db RARE CANDY
 	db -1
 
 Goldenrod2FMart2:
@@ -129,6 +133,7 @@ Goldenrod2FMart2Eevee:
 	db BLUESKY_MAIL
 	db MORPH_MAIL
 	db EON_MAIL
+	db RARE CANDY
 	db -1
 
 Goldenrod3FMart:
@@ -142,6 +147,7 @@ Celadon5FMart2:
 	db X_ACCURACY
 	db DIRE_HIT
 	db GUARD_SPEC
+	db RARE CANDY
 	db -1
 
 Goldenrod4FMart:
@@ -177,6 +183,7 @@ GoldenrodHarborMart:
 	db ZOOM_LENS
 	db BRIGHTPOWDER
 	db SURF_MAIL
+	db RARE CANDY
 	db -1
 
 UndergroundMart:
@@ -185,6 +192,7 @@ UndergroundMart:
 	db ENERGY_ROOT
 	db HEAL_POWDER
 	db REVIVAL_HERB
+	db RARE CANDY
 	db -1
 
 EcruteakMart:
@@ -200,6 +208,7 @@ EcruteakMart:
 	db BURN_HEAL
 	db ICE_HEAL
 	db REVIVE
+	db RARE CANDY
 	db -1
 
 OlivineMart:
@@ -214,6 +223,7 @@ OlivineMart:
 	db ICE_HEAL
 	db SUPER_REPEL
 	db SURF_MAIL
+	db RARE CANDY
 	db -1
 
 CianwoodMart:
@@ -223,6 +233,7 @@ CianwoodMart:
 	db HYPER_POTION
 	db FULL_HEAL
 	db REVIVE
+	db RARE CANDY
 	db -1
 
 YellowForestMart:
@@ -231,6 +242,7 @@ YellowForestMart:
 	db REPEL
 	db FRESH_WATER
 	db FULL_HEAL
+	db RARE CANDY
 	db -1
 
 MahoganyMart1:
@@ -239,6 +251,7 @@ MahoganyMart1:
 	db SLOWPOKETAIL
 	db GREAT_BALL
 	db SUPER_POTION
+	db RARE CANDY
 	db -1
 
 MahoganyMart2:
@@ -253,6 +266,7 @@ MahoganyMart2:
 	db SUPER_REPEL
 	db REVIVE
 	db FLOWER_MAIL
+	db RARE CANDY
 	db -1
 
 BlackthornMart:
@@ -268,6 +282,7 @@ BlackthornMart:
 	db X_DEFEND
 	db X_ATTACK
 	db MUSIC_MAIL
+	db RARE CANDY
 	db -1
 
 IndigoPlateauMart:
@@ -279,6 +294,7 @@ IndigoPlateauMart:
 	db FULL_RESTORE
 	db REVIVE
 	db FULL_HEAL
+	db RARE CANDY
 	db -1
 
 ViridianMart:
@@ -294,6 +310,7 @@ ViridianMart:
 	db MAX_REPEL
 	db REVIVE
 	db FLOWER_MAIL
+	db RARE CANDY
 	db -1
 
 PewterMart:
@@ -306,6 +323,7 @@ PewterMart:
 	db PARALYZEHEAL
 	db AWAKENING
 	db BURN_HEAL
+	db RARE CANDY
 	db -1
 
 MtMoonMart:
@@ -318,6 +336,7 @@ MtMoonMart:
 	db SUPER_REPEL
 	db MIRAGE_MAIL
 	db PORTRAITMAIL
+	db RARE CANDY
 	db -1
 
 CeruleanMart:
@@ -332,6 +351,7 @@ CeruleanMart:
 	db X_ATTACK
 	db DIRE_HIT
 	db SURF_MAIL
+	db RARE CANDY
 	db -1
 
 LavenderMart:
@@ -345,6 +365,7 @@ LavenderMart:
 	db PARALYZEHEAL
 	db AWAKENING
 	db BURN_HEAL
+	db RARE CANDY
 	db -1
 
 VermilionMart:
